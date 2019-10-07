@@ -1,0 +1,46 @@
+h1
+{
+    font-family: 'UniWideRegular';
+    color: lawngreen;
+    text-shadow: 2px 2px rgba(251, 65, 152, 0.92);
+}
+body
+{
+    background-image: url(https://www.publicdomainpictures.net/pictures/290000/velka/brick-wall-1552743695JQ9.jpg);
+    color: whitesmoke;
+    text-shadow: 1px 1px #383838;
+}
+div
+{
+    padding: 8px;
+}
+.intro
+{
+    background-color: #FAAC37;
+}
+.left
+{
+    clear: right;
+    text-align: left;
+    background-color: #3785FA;
+}
+.right
+{
+    background-color: firebrick;
+}
+.example
+{
+    background-color: darkseagreen;
+}
+:link
+{
+    color: white;
+}
+:visited
+{
+    color: white;
+}
+:hover
+{
+    color: blue;
+}
